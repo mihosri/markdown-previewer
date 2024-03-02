@@ -41,7 +41,7 @@ function App() {
 
   return (
     <div>
-      <h1>Markdown Previewer</h1>
+      <h1 id='heading'>Markdown Previewer</h1>
       <div className="boxes-container">
         <textarea
           id="editor"
